@@ -1,6 +1,5 @@
 # Clique Bait
 ## Questions and Answers
-### by jaime.m.shaker@gmail.com
 
 **1. Entity Relationship Diagram**
 
